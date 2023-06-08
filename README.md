@@ -18,14 +18,22 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 1. **Estrutura básica**: Crie um arquivo HTML com uma estrutura básica contendo a tag `<script>` para incluir o código JavaScript e uma `<div>` para exibir os dados da API.
 
+   ![Estrutura básica](./images/estrutura-basica.png)
+
 2. **Fazendo a requisição**: Utilize a função `fetch` para fazer uma requisição HTTP à URL da API desejada.
+
+   ![Fazendo a requisição](./images/fazendo-requisicao.png)
 
 3. **Processando a resposta**: Utilize o método `.json()` para obter os dados da resposta no formato JSON.
 
 4. **Exibindo os dados**: Crie uma função para exibir os dados recebidos da API na página HTML.
 
+   ![Exibindo os dados](./images/exibindo-dados.png)
+
 5. **Lidando com erros**: Utilize o método `.catch()` para lidar com possíveis erros na requisição.
 
+   ![Exibindo os dados](./images/lidando-erros.png)
+   
 ## :clipboard: Como Utilizar
 
 1. Faça o download dos arquivos do projeto.
